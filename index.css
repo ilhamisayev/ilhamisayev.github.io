@@ -4,11 +4,17 @@ body {
     padding:0px;
     margin:0px;
     background: url(https://images.unsplash.com/photo-1502982720700-bfff97f2ecac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80);
-    background-size:cover;
+    background-size: cover;
     width:100vw;
     height:100vh;
     overflow:hidden;
     font-family: 'Montserrat', sans-serif;
+}
+@media (max-width: 800px) {
+    body {
+        background: url(mobileoptimizedbg.png); /* Replace with the path to your mobile image */
+        background-size: cover;
+    }
 }
 #loading {
     width: 100vw;
@@ -61,7 +67,7 @@ body {
 }
 #menu a {
     margin:0px 6%;
-    font-size:19px;
+    font-size:2rem;
     color:#fff;
     text-decoration:underline;
 }
@@ -80,7 +86,7 @@ body {
 }
 #middle h1 {
     color:rgb(255, 255, 255);
-    font-size:70px;
+    font-size:rem;
     font-weight:700;
 }
 #about {
@@ -205,7 +211,7 @@ body {
     cursor:text;
 }
 .container h1 {
-    font-size:60px;
+    font-size:10rem;
     text-decoration:underline;
 }
 .container p {
@@ -357,5 +363,25 @@ body {
     }
     #box div {
         width:100%;
+    }
+}
+#middle h1 {
+    color: rgb(255, 255, 255);
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+/* Adjust the font size for smaller screens */
+@media (max-width: 800px) {
+    #middle h1 {
+        font-size: 3rem; /* Adjust the size as needed */
+    }
+}
+
+/* Add vertical space to 'a' elements in the mobile version */
+@media (max-width: 800px) {
+    #menu a {
+        padding-top: 10px; /* Adjust the padding values as needed */
+        padding-bottom: 10px; /* Adjust the padding values as needed */
     }
 }
