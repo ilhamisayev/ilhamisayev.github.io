@@ -1,0 +1,117 @@
+[
+    {
+        "id": "6e1d4a11-4193-48e0-98f7-6c9dcc572254",
+        "name": "18-55 mm",
+        "email": "5 azn"
+    },
+    {
+        "id": "097feb1d-44b2-462d-80fa-819b1d9306fb",
+        "name": "18-135 mm",
+        "email": "10 azn"
+    },
+    {
+        "id": "644c5090-473a-4b42-bb29-4e575184c62e",
+        "name": "18-200 mm",
+        "email": "10 azn"
+    },
+    {
+        "id": "249484c5-2f41-4fc0-8c15-9bdc876d7570",
+        "name": "17-85 mm",
+        "email": "10 azn"
+    },
+    {
+        "id": "ee68245a-9bd8-4b46-a185-50efeffc567d",
+        "name": "50 mm f1,8",
+        "email": "13 azn"
+    },
+    {
+        "id": "afda1576-1c50-44b0-b4de-f02c113c3622",
+        "name": "50 mm f1,4",
+        "email": "17 azn"
+    },
+    {
+        "id": "214a4206-9fd6-40cb-be29-4db009ec6669",
+        "name": "50 mm f1,2",
+        "email": "25 azn"
+    },
+    {
+        "id": "0495be38-6c49-42e2-846c-72ef17ebb35c",
+        "name": "35 mm 1,4",
+        "email": "25 azn"
+    },
+    {
+        "id": "3508e0dc-bc3f-4163-b188-0f6afa601393",
+        "name": "35 mm 1,4 Sigma",
+        "email": "25 azn"
+    },
+    {
+        "id": "4a35770b-85f7-4031-bf2e-cf2c6c0c78ee",
+        "name": "8-15 mm ",
+        "email": "20 azn"
+    },
+    {
+        "id": "7f0cb6ba-4f27-4411-9430-96bdd479474d",
+        "name": "16-35 II",
+        "email": "20 azn"
+    },
+    {
+        "id": "8558b91a-706c-4786-b8f0-7a21ff71ec68",
+        "name": "17-40 mm",
+        "email": "15 azn"
+    },
+    {
+        "id": "1d28ea98-3218-4d6a-bc02-559c533ebc87",
+        "name": "16-35 mm III versiya",
+        "email": "2470 azn"
+    },
+    {
+        "id": "f2d7a405-5fe3-4815-a811-62689c7a585c",
+        "name": "15",
+        "email": "2470 azn"
+    },
+    {
+        "id": "ac500899-0635-41b4-a9c8-57c6bb1fa9fa",
+        "name": "25",
+        "email": "24105 azn"
+    },
+    {
+        "id": "bfeabeae-7bb9-4125-b879-6e35564d9391",
+        "name": "15",
+        "email": "241054 azn"
+    },
+    {
+        "id": "606a28b6-f396-466c-8c6e-4476a364d82c",
+        "name": "17",
+        "email": " azn"
+    },
+    {
+        "id": "f5797339-1f96-4761-845f-d2ba3aa39716",
+        "name": "24-105 mm f4 II versiya",
+        "email": "22 azn"
+    },
+    {
+        "id": "cd49c85b-326a-431b-9fb0-bbbb7c4b965d",
+        "name": "85 mm f1,2",
+        "email": "25 azn"
+    },
+    {
+        "id": "1d727c16-2941-4ba7-8f90-668bc6cb59c0",
+        "name": "135 mm f2",
+        "email": "20 azn"
+    },
+    {
+        "id": "c25d1697-cbd6-4791-a931-56bd792026ee",
+        "name": "70-200 f4",
+        "email": "17 azn"
+    },
+    {
+        "id": "0e0811d1-ceb0-41fc-bd1b-f0f2c8747717",
+        "name": "70-200 mm f2,8 I versiya",
+        "email": "20 azn"
+    },
+    {
+        "id": "575076f2-09d8-449c-80cf-c04685666ada",
+        "name": "70-200 mm f2,8 II versiya",
+        "email": "25 azn"
+    }
+]

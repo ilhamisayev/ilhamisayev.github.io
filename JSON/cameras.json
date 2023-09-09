@@ -1,0 +1,384 @@
+[
+        {
+            "id": "e090dcc3-a299-43b2-8274-b0055e5b5e7b",
+            "name": "Canon 5D m2 Body",
+            "email": "12 azn"
+    },
+    {
+        "id": "9c6dcd07-a846-4cde-849f-8f94a11fef00",
+        "name": "Canon 5D m3 Body",
+        "email": "17 azn"
+    },
+    {
+        "id": "b3d3d410-42be-4fa7-8a07-225e6fcd3117",
+        "name": "Canon 5D m4 Body",
+        "email": "20 azn"
+    },
+    {
+        "id": "9ec4bbe7-5d33-4e97-b491-2759f0f69622",
+        "name": "Canon 6D Body",
+        "email": "15 azn"
+    },
+    {
+        "id": "1fedf2c2-6203-49b8-90fa-5b21735ea0ad",
+        "name": "Canon 6D m2 Body",
+        "email": "20 azn"
+    },
+    {
+        "id": "7789cb17-25b1-4f0c-a500-6672fa62abe0",
+        "name": "Canon R Body",
+        "email": "30 azn"
+    },
+    {
+        "id": "8629a947-2eec-46d1-97c6-e5ce328fe5de",
+        "name": "Canon Rp Body",
+        "email": "25 azn"
+    },
+    {
+        "id": "db89f0d4-c3d3-404d-b48e-b7d28c763695",
+        "name": "Canon R6 Body",
+        "email": "35 azn"
+    },
+    {
+        "id": "b794946a-3089-402d-b2b4-25880b1a2b0a",
+        "name": "Canon R5 Body",
+        "email": "50 azn"
+    },
+    {
+        "id": "29b3604f-fe07-4d67-a2ff-5213f1fbce4d",
+        "name": "Canon 1100D 18-55mm",
+        "email": "5 azn"
+    },
+    {
+        "id": "8e076fe9-f4aa-49b2-8977-2ba6aa74b6a7",
+        "name": "Canon 1200D 18-55mm",
+        "email": "6 azn"
+    },
+    {
+        "id": "39ce731d-fd26-4cc0-831a-8b01d81a3fbd",
+        "name": "Canon 1300D 18-55mm",
+        "email": "7 azn"
+    },
+    {
+        "id": "e04e3bde-516d-4023-82c7-888f40810fa9",
+        "name": "Canon 550D 18-55mm",
+        "email": "8 azn"
+    },
+    {
+        "id": "197f7075-44e1-4eb5-b28f-62fda40ef89f",
+        "name": "Canon 600D 18-55mm",
+        "email": "9 azn"
+    },
+    {
+        "id": "04063d9e-93ac-4098-898f-1e670966a070",
+        "name": "Canon 650D 18-55mm",
+        "email": "10 azn"
+    },
+    {
+        "id": "166f2f3a-506e-45bb-b13b-11bba8e4e55f",
+        "name": "Canon 700D 18-55mm",
+        "email": "13 azn"
+    },
+    {
+        "id": "55dd424a-5052-44e5-9d8d-8998f3bc0263",
+        "name": "Canon 750D 18-55mm",
+        "email": "15 azn"
+    },
+    {
+        "id": "79e96a82-7e58-4dd2-acf0-6fdbbaf9a7a6",
+        "name": "Canon 800D 18-55mm",
+        "email": "18 azn"
+    },
+    {
+        "id": "3b896e99-07b4-46e2-aef5-248b098ef87c",
+        "name": "Canon 850D 18-55mm",
+        "email": "21 azn"
+    },
+    {
+        "id": "e3aebaa9-6735-461c-9b76-db6bd24c17fe",
+        "name": "Canon 40D 18-55mm",
+        "email": "9 azn"
+    },
+    {
+        "id": "a001a6ba-0a49-4282-a4cc-1f7ce1c9a38d",
+        "name": "Canon 50D 18-55mm",
+        "email": "10 azn"
+    },
+    {
+        "id": "28dd54bf-a351-43e8-bd5f-cb0775629fec",
+        "name": "Canon 60D 18-55mm",
+        "email": "13 azn"
+    },
+    {
+        "id": "c269c34c-19a0-4307-b78c-4453dba1c0d6",
+        "name": "Canon 70D 18-55mm",
+        "email": "18 azn"
+    },
+    {
+        "id": "3961448f-2dce-402c-8d9b-2bded7da6fe2",
+        "name": "Canon 80D 18-55mm",
+        "email": "22 azn"
+    },
+    {
+        "id": "8350c4cc-8f8d-4d8d-9e54-03d628a24214",
+        "name": "Canon 90D 18-55mm",
+        "email": "27 azn"
+    },
+    {
+        "id": "e5739a38-bed5-48bd-b3a1-7f1bfa2899d7",
+        "name": "Canon R10 15-45mm",
+        "email": "30 azn"
+    },
+
+    {
+        "id": "e090dcc3-a299-43b2-8274-b0055e5b5e7b",
+        "name": "Canon 5D m2 Body",
+        "email": "12 azn"
+    },
+    {
+        "id": "9c6dcd07-a846-4cde-849f-8f94a11fef00",
+        "name": "Canon 5D m3 Body",
+        "email": "17 azn"
+    },
+    {
+        "id": "b3d3d410-42be-4fa7-8a07-225e6fcd3117",
+        "name": "Canon 5D m4 Body",
+        "email": "20 azn"
+    },
+    {
+        "id": "9ec4bbe7-5d33-4e97-b491-2759f0f69622",
+        "name": "Canon 6D Body",
+        "email": "15 azn"
+    },
+    {
+        "id": "1fedf2c2-6203-49b8-90fa-5b21735ea0ad",
+        "name": "Canon 6D m2 Body",
+        "email": "20 azn"
+    },
+    {
+        "id": "7789cb17-25b1-4f0c-a500-6672fa62abe0",
+        "name": "Canon R Body",
+        "email": "30 azn"
+    },
+    {
+        "id": "8629a947-2eec-46d1-97c6-e5ce328fe5de",
+        "name": "Canon Rp Body",
+        "email": "25 azn"
+    },
+    {
+        "id": "db89f0d4-c3d3-404d-b48e-b7d28c763695",
+        "name": "Canon R6 Body",
+        "email": "35 azn"
+    },
+    {
+        "id": "b794946a-3089-402d-b2b4-25880b1a2b0a",
+        "name": "Canon R5 Body",
+        "email": "50 azn"
+    },
+    {
+        "id": "29b3604f-fe07-4d67-a2ff-5213f1fbce4d",
+        "name": "Canon 1100D 18-55mm",
+        "email": "5 azn"
+    },
+    {
+        "id": "8e076fe9-f4aa-49b2-8977-2ba6aa74b6a7",
+        "name": "Canon 1200D 18-55mm",
+        "email": "6 azn"
+    },
+    {
+        "id": "39ce731d-fd26-4cc0-831a-8b01d81a3fbd",
+        "name": "Canon 1300D 18-55mm",
+        "email": "7 azn"
+    },
+    {
+        "id": "e04e3bde-516d-4023-82c7-888f40810fa9",
+        "name": "Canon 550D 18-55mm",
+        "email": "8 azn"
+    },
+    {
+        "id": "197f7075-44e1-4eb5-b28f-62fda40ef89f",
+        "name": "Canon 600D 18-55mm",
+        "email": "9 azn"
+    },
+    {
+        "id": "04063d9e-93ac-4098-898f-1e670966a070",
+        "name": "Canon 650D 18-55mm",
+        "email": "10 azn"
+    },
+    {
+        "id": "166f2f3a-506e-45bb-b13b-11bba8e4e55f",
+        "name": "Canon 700D 18-55mm",
+        "email": "13 azn"
+    },
+    {
+        "id": "55dd424a-5052-44e5-9d8d-8998f3bc0263",
+        "name": "Canon 750D 18-55mm",
+        "email": "15 azn"
+    },
+    {
+        "id": "79e96a82-7e58-4dd2-acf0-6fdbbaf9a7a6",
+        "name": "Canon 800D 18-55mm",
+        "email": "18 azn"
+    },
+    {
+        "id": "3b896e99-07b4-46e2-aef5-248b098ef87c",
+        "name": "Canon 850D 18-55mm",
+        "email": "21 azn"
+    },
+    {
+        "id": "e3aebaa9-6735-461c-9b76-db6bd24c17fe",
+        "name": "Canon 40D 18-55mm",
+        "email": "9 azn"
+    },
+    {
+        "id": "a001a6ba-0a49-4282-a4cc-1f7ce1c9a38d",
+        "name": "Canon 50D 18-55mm",
+        "email": "10 azn"
+    },
+    {
+        "id": "28dd54bf-a351-43e8-bd5f-cb0775629fec",
+        "name": "Canon 60D 18-55mm",
+        "email": "13 azn"
+    },
+    {
+        "id": "c269c34c-19a0-4307-b78c-4453dba1c0d6",
+        "name": "Canon 70D 18-55mm",
+        "email": "18 azn"
+    },
+    {
+        "id": "3961448f-2dce-402c-8d9b-2bded7da6fe2",
+        "name": "Canon 80D 18-55mm",
+        "email": "22 azn"
+    },
+    {
+        "id": "8350c4cc-8f8d-4d8d-9e54-03d628a24214",
+        "name": "Canon 90D 18-55mm",
+        "email": "27 azn"
+    },
+    {
+        "id": "e5739a38-bed5-48bd-b3a1-7f1bfa2899d7",
+        "name": "Canon R10 15-45mm",
+        "email": "30 azn"
+    },
+    {
+        "id": "64d31035-b8d7-4fa5-882b-15982fcc80a9",
+        "name": "Sony 6000 16-50mm",
+        "email": "20 azn"
+    },
+    {
+        "id": "e79063e6-62b7-4df9-80bc-520d10806bcd",
+        "name": "Sony 6300 16-50mm",
+        "email": "23 azn"
+    },
+    {
+        "id": "06b88a7a-37c1-4085-8c48-11424828d472",
+        "name": "Sony 6400 16-50mm",
+        "email": "26 azn"
+    },
+    {
+        "id": "cac6b5b4-8b08-450e-ae69-befc92dc4f25",
+        "name": "Sony 6500 16-50mm",
+        "email": "30 azn"
+    },
+    {
+        "id": "d42d6a61-a83b-42c8-ba08-1e60376c390a",
+        "name": "Sony 6600 16-50mm",
+        "email": "35 azn"
+    },
+    {
+        "id": "f86ea6ab-4dd5-46a8-9f5e-fa4912cf1176",
+        "name": "Sony A7 Body",
+        "email": "16 azn"
+    },
+    {
+        "id": "5afd3d84-2a6f-4913-91bf-44c98633e741",
+        "name": "Sony A7 II Body",
+        "email": "20 azn"
+    },
+    {
+        "id": "8bd512bf-fec9-4cda-905c-98f3da9f09b9",
+        "name": "Sony A7 III Body",
+        "email": "29 azn"
+    },
+    {
+        "id": "62defe6a-9482-4190-92f5-bc1732d16599",
+        "name": "Sony A7 IV Body",
+        "email": "35 azn"
+    },
+    {
+        "id": "45f99c4d-04a3-460f-ae9d-fe668b86c704",
+        "name": "Sony FX30 Body",
+        "email": "35 azn"
+    },
+    {
+        "id": "dd9153c3-c7c4-4504-a5ae-b3dd62d053f7",
+        "name": "Sony FX3 Body",
+        "email": "70 azn"
+    },
+    {
+        "id": "e52b345d-bca5-4f16-bdce-be2debb85842",
+        "name": "Sony A7C",
+        "email": "28 azn"
+    },
+    {
+        "id": "64d31035-b8d7-4fa5-882b-15982fcc80a9",
+        "name": "Sony 6000 16-50mm",
+        "email": "20 azn"
+    },
+    {
+        "id": "e79063e6-62b7-4df9-80bc-520d10806bcd",
+        "name": "Sony 6300 16-50mm",
+        "email": "23 azn"
+    },
+    {
+        "id": "06b88a7a-37c1-4085-8c48-11424828d472",
+        "name": "Sony 6400 16-50mm",
+        "email": "26 azn"
+    },
+    {
+        "id": "cac6b5b4-8b08-450e-ae69-befc92dc4f25",
+        "name": "Sony 6500 16-50mm",
+        "email": "30 azn"
+    },
+    {
+        "id": "d42d6a61-a83b-42c8-ba08-1e60376c390a",
+        "name": "Sony 6600 16-50mm",
+        "email": "35 azn"
+    },
+    {
+        "id": "f86ea6ab-4dd5-46a8-9f5e-fa4912cf1176",
+        "name": "Sony A7 Body",
+        "email": "16 azn"
+    },
+    {
+        "id": "5afd3d84-2a6f-4913-91bf-44c98633e741",
+        "name": "Sony A7 II Body",
+        "email": "20 azn"
+    },
+    {
+        "id": "8bd512bf-fec9-4cda-905c-98f3da9f09b9",
+        "name": "Sony A7 III Body",
+        "email": "29 azn"
+    },
+    {
+        "id": "62defe6a-9482-4190-92f5-bc1732d16599",
+        "name": "Sony A7 IV Body",
+        "email": "35 azn"
+    },
+    {
+        "id": "45f99c4d-04a3-460f-ae9d-fe668b86c704",
+        "name": "Sony FX30 Body",
+        "email": "35 azn"
+    },
+    {
+        "id": "dd9153c3-c7c4-4504-a5ae-b3dd62d053f7",
+        "name": "Sony FX3 Body",
+        "email": "70 azn"
+    },
+    {
+        "id": "e52b345d-bca5-4f16-bdce-be2debb85842",
+        "name": "Sony A7C",
+        "email": "28 azn"
+    }
+
+]
