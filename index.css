@@ -383,5 +383,45 @@ body {
     #menu a {
         padding-top: 10px; /* Adjust the padding values as needed */
         padding-bottom: 10px; /* Adjust the padding values as needed */
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 800px) {
+    #work {
+        width: 80vw;
+        height: 80vw;
+        font-size: 10px;
+        border-radius: 10px;
+        bottom: 20vh;
+        right: 10px;
+        transform: none;
+    }
+
+    #contact {
+        width: 80vw;
+        height: 80vw;
+        font-size: 10px;
+        border-radius: 10px;
+        bottom: 10px;
+        left: calc(50% - 40vw);
+    }
+}
+
+@media (max-width: 800px) {
+    .container h1 {
+        font-size: 3rem; /* Adjust the size as needed */
+    }
+}
+
+@media (max-width: 800px) {
+    .btn_one,
+    .btn_two {
+        font-size: 13px; /* Reduce font size for better fit */
+        padding: 8px 10px; /* Adjust padding for better spacing */
+    }
+    
+    .btn_two {
+        padding: 8px 15px; /* Adjust padding for better spacing */
     }
 }
