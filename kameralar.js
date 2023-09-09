@@ -63,7 +63,7 @@ searchInput.addEventListener("input", () => {
   showUserCards();
 });
 
-fetch("https://raw.githubusercontent.com/inksew/datacamera/main/products.json")
+fetch("https://raw.githubusercontent.com/ilhamisayev/ilhamisayev.github.io/main/JSON/cameras.json")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => ({ id: generateId(user.name), name: user.name, email: user.email }));
