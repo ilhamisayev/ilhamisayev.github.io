@@ -194,7 +194,7 @@ body {
     cursor:pointer;
 }
 .container section {
-    margin:8vh 0px;
+    margin: 2vh 0;
 }
 #used div{
     font-size:14px !important;
@@ -423,5 +423,24 @@ body {
     
     .btn_two {
         padding: 8px 15px; /* Adjust padding for better spacing */
+    }
+}
+
+@media (max-width: 800px) {
+    .container section {
+        display: flex;
+        flex-direction: column; /* Stack buttons vertically */
+        align-items: left; /* Center buttons horizontally */
+    }
+
+    .btn_one,
+    .btn_two {
+        font-size: 13px;
+        padding: 8px 10px;
+        margin: 5px 0;
+    }
+
+    .btn_two {
+        padding: 8px 15px;
     }
 }
