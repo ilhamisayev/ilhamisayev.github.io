@@ -60,7 +60,7 @@ searchInput.addEventListener("input", () => {
   showUserCards();
 });
 
-fetch("https://github.com/ilhamisayev/ilhamisayev.github.io/blob/main/JSON/canon%20lens.json")
+fetch("https://raw.githubusercontent.com/ilhamisayev/ilhamisayev.github.io/main/JSON/canon%20lens.json")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => ({ id: generateId(user.name), name: user.name, email: user.email }));
