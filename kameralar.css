@@ -95,18 +95,34 @@ input:hover {
 }
 
 /* Media query for smaller screens */
+/* Media query for smaller screens */
 @media screen and (max-width: 768px) {
   .search-wrapper {
-    width: 100%;
+    width: 80%;
     padding: 1rem;
   }
 
   .user-cards {
     grid-template-columns: repeat(2, minmax(150px, 1fr));
-    text-decoration: none;
-    cursor: pointer;
+    gap: 0.9rem; /* Reduce the gap between cards */
+    margin: 2rem auto; /* Adjust the margin */
+  }
+
+  .card {
+    padding: 0.25rem; /* Reduce card padding */
+    border-radius: 10px;
+  }
+
+  .card > .header {
+    font-size: 0.8rem; /* Adjust the header font size */
+    margin-bottom: 0.1rem; /* Adjust the margin */
+  }
+
+  .card > .body {
+    font-size: 0.7rem; /* Adjust the body font size */
   }
 }
+
 .btn_one {
   font-size:18px;
   font-family: 'Josefin Sans', sans-serif;
