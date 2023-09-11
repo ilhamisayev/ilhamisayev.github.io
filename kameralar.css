@@ -121,6 +121,13 @@ input:hover {
   .card > .body {
     font-size: 0.7rem; /* Adjust the body font size */
   }
+  .searchtext {
+    font-size: 25px; /* Reduce the font size for search text */
+  }
+
+  .searchbox {
+    font-size: 14px; /* Reduce the font size for the search box */
+  }
 }
 
 .btn_one {
