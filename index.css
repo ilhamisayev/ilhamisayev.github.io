@@ -217,6 +217,11 @@ body {
 .container p {
     font-size:21px;
 }
+.btn_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start; /* Adjust alignment as needed */
+}
 .btn_one {
     font-size:18px;
     font-family: 'Josefin Sans', sans-serif;
