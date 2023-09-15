@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="kameralar.css">
+  <script src="lights.js" defer></script>
+  <title>İşıqlar - Axtarış</title>
+</head>
+<body>
+  <div class="search-wrapper">
+    <h1 class="searchtext">Axtarış</h1>
+    <input type="text" class="searchbox" id="searchInput" data-search placeholder="Axtarış Et">
+  </div>
+  <div class="user-cards" id="searchResults">
+  </div>
+  <div class="user-cards" data-user-cards-container></div>
+  <button class="btn_one" id="loadMoreButton">Daha Çox</button>
+  <template data-user-template>
+    <div class="card">
+      <div class="header" data-header></div>
+      <div class="body" data-body></div>
+    </div>
+  </template>
+</body>
+</html>
